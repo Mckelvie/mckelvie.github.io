@@ -1,0 +1,87 @@
+
+img.a1 {
+	position: absolute; top: 100px; left: 10px;
+}
+img.a2 {
+	position: absolute; top: 400px; left: 560px;
+}
+img.a3 {
+	position: absolute; top: 700px; left: 10px;
+}
+img.a4 {
+	position: absolute; top: 1000px; left: 560px;
+}
+img.a5 {
+	position: absolute; top: 1300px; left: 10px;
+}
+img.a6 {
+	position: absolute; top: 1600px; left: 560px;
+}
+img.a7 {
+	position: absolute; top: 1900px; left: 10px;
+}
+img.a8 {
+	position: absolute; top: 2200px; left: 560px;
+}
+
+
+div {
+	font-family: sans-serif;
+}
+div.a1 {
+	position: absolute; top: 100px; left: 560px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	background-color: grey;
+}
+div.a2 {
+	position: absolute; top: 400px; left: 10px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	background-color: red;
+}
+div.a3 {
+	position: absolute; top: 700px; left: 560px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	background-color: #D3D3D3;
+}
+div.a4 {
+	position: absolute; top: 1000px; left: 10px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	color: white;
+	background-color: black;
+}
+div.a5 {
+	position: absolute; top: 1300px; left: 560px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	background-color: white;
+}
+div.a6 {
+	position: absolute; top: 1600px; left: 10px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	background-color: red;
+}
+div.a7 {
+	position: absolute; top: 1900px; left: 560px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	color: white;
+	background-color: black;
+}
+div.a8 {
+	position: absolute; top: 2200px; left: 10px;
+	width: 550px; height: 300px;
+	font-size: 22px;
+	color: white;
+	background-color: black;
+}
+
+button.a1 {
+	position: absolute; top: 264px; left: 450px;
+	width: 90px; height: 30px;
+	border-radius: 5%;
+}
